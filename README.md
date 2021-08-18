@@ -1,0 +1,2 @@
+# konlpy
+korean corpus
